@@ -1,0 +1,99 @@
+{
+  "DRP1 (DNM1L)": {
+    "probability": 0.683,
+    "known_mam": true,
+    "correct": true,
+    "length": 736
+  },
+  "MFN1": {
+    "probability": 0.8685,
+    "known_mam": true,
+    "correct": true,
+    "length": 741
+  },
+  "MFN2": {
+    "probability": 0.8736,
+    "known_mam": true,
+    "correct": true,
+    "length": 757
+  },
+  "GPX4": {
+    "probability": 0.2465,
+    "known_mam": true,
+    "correct": false,
+    "length": 197
+  },
+  "FIS1": {
+    "probability": 0.9248,
+    "known_mam": true,
+    "correct": true,
+    "length": 152
+  },
+  "VDAC1": {
+    "probability": 0.9972,
+    "known_mam": true,
+    "correct": true,
+    "length": 283
+  },
+  "IP3R1 (ITPR1)": {
+    "probability": 0.6082,
+    "known_mam": true,
+    "correct": true,
+    "length": 1022
+  },
+  "VAPB": {
+    "probability": 0.5613,
+    "known_mam": true,
+    "correct": true,
+    "length": 243
+  },
+  "GAPDH": {
+    "probability": 0.392,
+    "known_mam": false,
+    "correct": true,
+    "length": 335
+  },
+  "H2B": {
+    "probability": 0.2106,
+    "known_mam": false,
+    "correct": true,
+    "length": 126
+  },
+  "ATP5A1": {
+    "probability": 0.5247,
+    "known_mam": false,
+    "correct": false,
+    "length": 553
+  },
+  "ALB": {
+    "probability": 0.6138,
+    "known_mam": false,
+    "correct": false,
+    "length": 609
+  },
+  "TUBA1A": {
+    "probability": 0.6538,
+    "known_mam": false,
+    "correct": false,
+    "length": 451
+  },
+  "HSPA8": {
+    "probability": 0.5584,
+    "known_mam": false,
+    "correct": false,
+    "length": 646
+  },
+  "RPL3": {
+    "probability": 0.3613,
+    "known_mam": false,
+    "correct": true,
+    "length": 403
+  },
+  "CYCS": {
+    "probability": 0.1101,
+    "known_mam": false,
+    "correct": true,
+    "length": 105
+  },
+  "accuracy": 0.6875
+}

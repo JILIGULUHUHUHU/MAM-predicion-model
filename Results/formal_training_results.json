@@ -1,0 +1,26 @@
+{
+  "model": "facebook/esm2_t12_35M_UR50D",
+  "dataset_size": 786,
+  "train_size": 634,
+  "val_size": 74,
+  "test_size": 78,
+  "dropout": 0.4,
+  "weight_decay": 0.05,
+  "label_smoothing": 0.1,
+  "focal_gamma": 2.0,
+  "test_metrics": {
+    "auroc": 0.7707142857142857,
+    "auprc": 0.6581462775011944,
+    "mcc": 0.5154823466322014,
+    "f1": 0.7027027027027027,
+    "sensitivity": 0.9285714285714286,
+    "specificity": 0.6,
+    "precision": 0.5652173913043478,
+    "threshold": 0.05950688198208809,
+    "tp": 26,
+    "tn": 30,
+    "fp": 20,
+    "fn": 2
+  },
+  "best_val_auroc": 0.8061465721040189
+}
