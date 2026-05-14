@@ -5,4 +5,3 @@ Data/*.csv
 output/
 
 # Large model files (use Git LFS or HuggingFace Hub)
-Models/*.pt
